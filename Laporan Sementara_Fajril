@@ -1,0 +1,4 @@
+Pada praktikum minggu ke 3 saya mempelajari pemograman menggunakan kamera dengan model deep learning berbasis CNN yang tujuannya untuk mengenali gambar secara real time. 
+Program dapat mengenali lima gambar, yaitu buildings, forest, sea, mountain, dan street.
+Program juga memiliki mode Night Vision, yang mengubah gambar menjadi skala abu-abu dan menerapkan efek colormap untuk meningkatkan kontras. 
+Program menampilkan dua jendela, satu untuk tampilan asli dan satu lagi untuk mode Night Vision. Hasil prediksi ditampilkan dalam bentuk teks pada layar.
